@@ -1,0 +1,106 @@
+[
+  {
+    "id": "3c03532c-3ecb-4d37-b168-3a37333bee30",
+    "data": [
+      {
+        "text": "I\u0027m feeling anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f1fe4fc-22f1-4c76-a106-46fe5f18a86b",
+    "data": [
+      {
+        "text": "give me something exciting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff88795-e5dc-4c43-b322-259fa95ad219",
+    "data": [
+      {
+        "text": "relaxing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37daee41-4214-4b6b-834d-cc2ab0daf2f0",
+    "data": [
+      {
+        "text": "sleepy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca6df516-7570-44c9-a348-9bd9906b0d0d",
+    "data": [
+      {
+        "text": "I want something calming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d6d3de4-3dd5-4bde-a887-415abaa81e2c",
+    "data": [
+      {
+        "text": "dark",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dc4478a-3ffc-40ed-9f43-8aaa031b1707",
+    "data": [
+      {
+        "text": "sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85214c8c-100e-4f85-8045-2756e853d449",
+    "data": [
+      {
+        "text": "I\u0027m feeling happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

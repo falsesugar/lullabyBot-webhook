@@ -1,0 +1,36 @@
+{
+  "id": "b2cd689a-6e05-4e82-9c39-f0bc3f5caf37",
+  "parentId": "92f76099-9bb5-485f-b869-0f8c1385b3ce",
+  "rootParentId": "92f76099-9bb5-485f-b869-0f8c1385b3ce",
+  "name": "mood",
+  "auto": true,
+  "contexts": [
+    "get_lullaby-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get_lullaby.get_lullaby-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
